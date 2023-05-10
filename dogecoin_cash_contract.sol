@@ -1,28 +1,4 @@
-/**
- *Submitted for verification at BscScan.com on 2021-04-21
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2021-04-21
-*/
-
-/**
-  
-   #DOGEC
-   
-   #LIQ+#RFI+#SHIB+#DOGE = #DOGEC
-
-   #Dogecoin Cash features:
-   4% fee auto add to the liquidity pool to locked forever when selling
-   3% fee auto distribute to all holders
-   I created a black hole so #DOGEC token will deflate itself in supply with every transaction
-   50% Supply is burned at start.
-   
-
- */
-
-pragma solidity ^0.6.12;
-// SPDX-License-Identifier: Unlicensed
+*/pragma solidity ^0.6.12;
 interface IERC20 {
 
     function totalSupply() external view returns (uint256);
